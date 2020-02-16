@@ -1,6 +1,8 @@
 # 4x6SplitMech
 [INPROGRESS]
 
-First Custom Keeb Project
+*First Custom Keeb Project*
+
+
 
 This Project is based off of the PCB design of jacekplonowski's 4x6 Split PCB. Only dimnesional modifications added. 
